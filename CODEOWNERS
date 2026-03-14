@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Adweta4810
+/src/backend/database.py      @Adweta4810
+/src/backend/routers/auth.py  @Adweta4810
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Adweta4810
